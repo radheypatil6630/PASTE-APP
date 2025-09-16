@@ -21,9 +21,7 @@ const Paste = () => {
 
 
 
-  function handleShare() {
-
-  }
+ 
 
   return (
     <div>
